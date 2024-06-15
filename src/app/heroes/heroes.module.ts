@@ -13,7 +13,7 @@ import { CommonModule } from "@angular/common";
         ListComponent
     ],
     imports:[
-        CommonModule
+        CommonModule         
     ]
 })
 export class HeroesMdoule {
